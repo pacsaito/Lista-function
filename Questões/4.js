@@ -3,6 +3,7 @@ A entrada foi: o peso e a altura.
 O processamento foi: a equação do IMC.
 A saída: usei um if else para a frase.
 Eu pensei em: primeiro, receber a altura e o peso, depois calcular e usar o if else pra sair a frase. */
+
 function receberIMC() {
     let peso = Number(prompt("Digite o seu peso (em kg): "))
     let altura = Number(prompt("Digite sua altura (em metros): "))

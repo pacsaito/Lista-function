@@ -1,5 +1,6 @@
 /*Pensamento Lógico: Eu fiz duas functions, uma que recebe o valor em celcius e outra para calcular o valor para fahrenheit. 
-A entrada numa function, onde eu recebo o valor do C, o processamento em outra function, para calcular o valor em fahrenheit, e a saída junto ao processamento, com o alert mostrando o resultado.
+A entrada numa function, onde eu recebo o valor do C, o processamento em outra function, para calcular o valor em fahrenheit, 
+e a saída junto ao processamento, com o alert mostrando o resultado.
 Eu achei a questão fácil, não tive nenhuma dúvida nessa
 */
 function celsiusParaFahrenheit(){

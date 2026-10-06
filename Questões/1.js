@@ -4,13 +4,13 @@ Eu achei a questão fácil, mas fiquei com dúvida em duas coisas que me prender
 As dúvidas foram a forma de mostrar a variável no alert (ou console) e um erro por que meu resultado estava dando NaN como resposta, e o professor me ajudou a resolver.*/
 
 function receberBaseAltura(){
-    let b = Number(prompt("Digite o valor da base do triângulo: "));
-    let h = Number(prompt("Digite o valor da altura do triângulo: "));
+    let b = Number(prompt("Digite o valor da base do retângulo: "));
+    let h = Number(prompt("Digite o valor da altura do retângulo: "));
     calcularAreaRetangulo(b, h)
 }
 
 function calcularAreaRetangulo(b, h){
-    let area = (b * h)/2;
-    alert(`A area do triangulo é ${area} metros`);
+    let area = (b * h);
+    alert(`A area do retângulo é ${area} metros`);
 }
     receberBaseAltura()
