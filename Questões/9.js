@@ -1,3 +1,9 @@
+/* Eu achei a questão média. Eu tive dúvida com array e objeto.
+A entrada foi: Nome do aluno e notas.
+O processamento foi: a média e a avaliação do aluno.
+A saída: A frase falando se o aluno foi aprovado ou não.
+Eu pensei em: primeiro pedir o nome do aluno com as notas, depois fazer a média das notas, avaliar se o aluno foi aprovado ou não, e por fim sair a frase completa.*/
+
 function calcularMediaArray(notas) { 
     let soma = 0; 
     for (let nota of notas) { 
