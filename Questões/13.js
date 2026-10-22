@@ -1,3 +1,8 @@
+/* Eu achei a questão média. Tive um pouco de dificuldade com o do-while, e as informações no switch-case
+A entrada foi: O valor a ser convertido.
+O processamento foi: A conversão da moeda.
+A saída: O valor da conversão.
+Eu pensei em: primeiro receber a opção, e o valor; depois converter o valor; e depois mostrar o valor convertido.*/
 function executarMenu() {
      let i = 0
     do {
